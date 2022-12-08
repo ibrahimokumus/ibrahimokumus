@@ -8,6 +8,4 @@
 
 <h3 align="left">⬇️ These are the platforms that you can reach me)</h3>
 
-<a href="https://www.linkedin.com/in/ibrahimokumuss/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x" width="40" height="40"></img></a>
-
-<a href="https://medium.com/@ibrahimokumu" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" width="55px" width="40" height="40"></img></a>
+<a href="https://www.linkedin.com/in/ibrahimokumuss/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x" width="40" height="40"></img></a><a href="https://medium.com/@ibrahimokumu" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" width="55px" width="40" height="40"></img></a>
